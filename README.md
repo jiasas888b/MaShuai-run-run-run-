@@ -1,9 +1,9 @@
 # MaShuai-run-run-run-
 a parkour game,you can download 
 
-Android 7.0+
+Android 8.0+
 
-made in Godot engine 4 (4.5.1)
+made in Godot engine 4 (4.6.1)
 
 developer:jiasas888b(jiasas888/jiasas)
 
