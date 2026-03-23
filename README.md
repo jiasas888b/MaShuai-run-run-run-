@@ -1,5 +1,5 @@
 # MaShuai-run-run-run-
-![GitHub All Releases](https://img.shields.io/github/downloads/jiasas888b/MaShuai-run-run-run/total)
+![GitHub All Releases](https://img.shields.io/github/downloads/jiasas888b/MaShuai-run-run-run-/total)
 
 a parkour game,you can download 
 
